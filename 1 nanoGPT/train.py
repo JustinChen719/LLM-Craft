@@ -1,5 +1,3 @@
-import torch
-
 from model import GPT
 from util import vocab_size, get_batch, estimate_loss
 from constant import *

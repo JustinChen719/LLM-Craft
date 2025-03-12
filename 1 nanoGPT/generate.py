@@ -1,5 +1,4 @@
 import torch
-from util import decode
 from model import GPT
 
 model_path = "./output/nanoGPT_5000_epochs.pt"
@@ -9,4 +8,6 @@ model.eval()
 model = model.to("cuda")
 
 input = torch.zeros((1, 1), dtype=torch.long).to("cuda")
-print(decode(model.generate(input, 1000)[0].tolist()))
+# print(decode(model.generate(input, 1000)[0].tolist()))
+
+model.generate(input, 1000)
