@@ -1,4 +1,7 @@
-data/*
+data
+other
 output/*
 *.png
 *.pt
+*.csv
+*.txt
