@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="root@qhdlink.lanyun.net:53065 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="LY2025032300377" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="LY2025031300268">
         <serverdata>
@@ -10,6 +10,13 @@
         </serverdata>
       </paths>
       <paths name="LY2025031300341">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/lanyun-tmp/llm-craft" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="LY2025032300377">
         <serverdata>
           <mappings>
             <mapping deploy="/root/lanyun-tmp/llm-craft" local="$PROJECT_DIR$" />
