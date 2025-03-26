@@ -6,6 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/data" />
       <excludeFolder url="file://$MODULE_DIR$/other/data" />
       <excludeFolder url="file://$MODULE_DIR$/output" />
+      <excludeFolder url="file://$MODULE_DIR$/2 PreTrain/output" />
     </content>
     <orderEntry type="jdk" jdkName="LY2025032300377" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
